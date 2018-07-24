@@ -12,5 +12,7 @@ end
   count = count + 1 
   
   puts "#{count} move(s) completed!"
-end 
+  end 
 end
+
+cupid_shuffle
